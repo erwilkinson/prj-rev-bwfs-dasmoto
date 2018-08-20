@@ -1,0 +1,42 @@
+h1 {
+  font-family: Helvetica, sans-serif;
+  color: Khaki;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  background-image: url("/Users/ethanrwilkinson/Library/Mobile Documents/com~apple~CloudDocs/Projects/Dasmoto/resources/images/pattern.jpeg");
+}
+
+h4, p {
+  font-family: Helvetica, sans-serif;
+}
+
+#title-brushes {
+  font-family: Helvetica; sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+#title-frames {
+  font-family: Helvetica; sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+
+#title-paint {
+  font-family: Helvetica; sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
+
+.price {
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  color: blue;
+}
